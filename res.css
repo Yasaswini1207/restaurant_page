@@ -1,0 +1,155 @@
+.food-munch-logo {
+    height: 70px;
+}
+
+.custom-nav-link {
+    color: #323f4b !important;
+    font-family: "Roboto" !important;
+
+}
+
+.main-bg-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+.main-heading {
+    color: white;
+    font-size: 50px;
+}
+
+.main-paragraph {
+    color: white;
+    font-size: 20px;
+}
+
+.button1 {
+    color: white;
+    border-width: 0px;
+    border-radius: 8px;
+    height: 50px;
+    width: 180px;
+    margin-right: 10px;
+}
+
+.button2 {
+    border-width: 2px;
+    color: orange;
+}
+
+.choose-bg-color {
+    background-color: #f9fbfe;
+    background-size: cover;
+}
+
+.choose-heading1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #183b56;
+    font-family: "Roboto";
+}
+
+.choose-paragraph1 {
+    color: #5a7184;
+    font-size: 17px;
+}
+
+.card1 {
+    background-color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 0px;
+    height: 450px;
+    width: 100%;
+}
+
+.choose-heading2 {
+    font-size: 25px;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.choose-paragraph2 {
+    font-size: 15px;
+    color: #7b8794;
+    font-family: "Roboto";
+}
+
+.choose-image {
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+}
+
+.offers {
+    font-weight: bold;
+    font-style: italic;
+    color: #323f4b;
+}
+
+.menu-bg-color {
+    background-color: white;
+}
+
+.menu-heading1 {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.card2 {
+    border-radius: 20px;
+    padding: 20px;
+    border-style: solid;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-width: 0px;
+
+}
+
+.menu-image {
+    border-radius: 20px;
+    width: 100%;
+}
+
+.menu-heading2 {
+    font-size: 15px;
+}
+
+.menu-link {
+    text-decoration: underline;
+    font-size: 15px;
+    color: orange !important;
+    font-family: "Roboto";
+}
+
+.icon {
+    font-size: 40px;
+    margin-left: 10px;
+    color: #d0b200;
+}
+
+.icon-bg {
+    background-color: #faf7e8;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    text-align: center;
+    padding: 27px;
+    border-radius: 50px;
+}
+
+.icon-heading {
+    font-size: 30px;
+    color: #183b56;
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bold;
+}
